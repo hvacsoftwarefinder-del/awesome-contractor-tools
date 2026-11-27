@@ -48,6 +48,7 @@ A curated list of the best tools, apps, and resources for contractors and home s
 - **[2026 Pricing Report](https://thecontractor.app/data)** — Industry pricing data
 - **[Software Comparison](https://thecontractor.app/compare)** — 11 side-by-side comparisons
 - **[Contractor Glossary](https://thecontractor.app/glossary)** — 31 terms defined
+- - [HVAC Software Finder](https://hvacsoftwarefinder.com/) — Independent, vendor-neutral reviews and comparisons of HVAC field service software (Jobber, Housecall Pro, ServiceTitan and more) with real pricing, for small US HVAC contractors with 1–15 techs.
 
 ## Contributing
 PRs welcome! Add tools that genuinely help contractors.
